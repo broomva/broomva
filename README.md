@@ -21,7 +21,7 @@ Building systems that span software, body, and craft. From agent runtimes to bre
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%">
   </a>
   <a href="https://github.com/broomva">
-    <img src="https://github-readme-stats.vercel.app/api?username=broomva&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="49%">
+    <img src="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="49%">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ Building systems that span software, body, and craft. From agent runtimes to bre
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%">
+  <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=default&utcOffset=-5" alt="Commits by Time" width="49%">
 </p>
 
