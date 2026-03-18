@@ -4,8 +4,6 @@
 
 Building systems that span software, body, and craft. From agent runtimes to breath-hold training, the discipline is the same: define primitives, map failure modes, build recovery paths, iterate toward antifragility.
 
-> *"The discipline that makes you hold your breath for three minutes also makes you refactor ruthlessly."*
-
 ---
 
 ### Agent OS Stack
