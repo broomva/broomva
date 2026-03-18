@@ -18,30 +18,51 @@ Building systems that span software, body, and craft. From agent runtimes to bre
 
 <p align="center">
   <a href="https://github.com/broomva">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%">
+    </picture>
   </a>
   <a href="https://github.com/broomva">
-    <img src="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="49%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github">
+      <img src="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="49%">
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/broomva">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=broomva&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=broomva&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=broomva&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%">
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=default&utcOffset=-5" alt="Commits by Time" width="49%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css">
+    <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=tokyonight&utcOffset=-5">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=default&utcOffset=-5" alt="Commits by Time" width="49%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=default" alt="Profile Details" width="98%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=tokyonight">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=default" alt="Profile Details" width="98%">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="contributions.svg" alt="Contributions Since 2018" width="98%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="contributions-dark.svg">
+    <img src="contributions-light.svg" alt="Contributions Since 2018" width="98%">
+  </picture>
 </p>
 
 ---
