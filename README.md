@@ -1,6 +1,6 @@
 # Carlos D. Escobar-Valbuena
 
-**Sr. ML/Mechatronics Engineer — Reliability engineering for complex systems.**
+**Sr. ML/Mechatronics Engineer — Databricks expert, big data for AI, and scalable production systems.**
 
 Building systems that span software, body, and craft. From agent runtimes to breath-hold training, the discipline is the same: define primitives, map failure modes, build recovery paths, iterate toward antifragility.
 
@@ -62,8 +62,8 @@ Read more at [broomva.tech](https://broomva.tech) · [book.broomva.tech](https:/
 
 ### Background
 
-Mechatronics engineering → industrial automation (PLCs, oil & gas) → data engineering → ML engineering → **agent-native infrastructure**. Colombian. Freediver. Systems thinker.
-Currently Lead AI at [Stimulus](https://console.getstimulus.ai) 
+Mechatronics engineering → industrial automation (PLCs, oil & gas) → data engineering → **Databricks & big data for AI** → ML engineering → **scalable production systems & agent-native infrastructure**. Colombian. Freediver. Systems thinker.
+Currently Lead AI at [Stimulus](https://console.getstimulus.ai)
 
 14 models and 7 datasets on [HuggingFace](https://huggingface.co/Broomva), including Spanish-to-indigenous-language translation (Wayuunaiki, Nasa Yuwe).
 
@@ -71,7 +71,7 @@ Currently Lead AI at [Stimulus](https://console.getstimulus.ai)
 
 ### Stack
 
-`Rust` · `TypeScript` · `Python` · `Next.js` · `Tauri` · `Tailwind` · `Bun` · `Biome` · `Drizzle` · `OpenTelemetry`
+`Rust` · `TypeScript` · `Python` · `Databricks` · `Spark` · `Next.js` · `Tauri` · `Tailwind` · `Bun` · `Biome` · `Drizzle` · `OpenTelemetry`
 
 ---
 
