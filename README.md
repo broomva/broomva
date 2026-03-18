@@ -82,3 +82,4 @@ Mechatronics engineering → industrial automation (PLCs, oil & gas) → data en
   <a href="https://linkedin.com/in/broomva">LinkedIn</a> ·
   <a href="https://huggingface.co/Broomva">HuggingFace</a>
 </p>
+
