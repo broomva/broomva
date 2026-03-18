@@ -63,7 +63,7 @@ Read more at [broomva.tech](https://broomva.tech) · [book.broomva.tech](https:/
 ### Background
 
 Mechatronics engineering → industrial automation (PLCs, oil & gas) → data engineering → **Databricks & big data for AI** → ML engineering → **scalable production systems & agent-native infrastructure**. Colombian. Freediver. Systems thinker.
-Currently Lead AI at [Stimulus](https://console.getstimulus.ai)
+Currently AI Lead at [Stimulus](https://console.getstimulus.ai)
 
 14 models and 7 datasets on [HuggingFace](https://huggingface.co/Broomva), including Spanish-to-indigenous-language translation (Wayuunaiki, Nasa Yuwe).
 
