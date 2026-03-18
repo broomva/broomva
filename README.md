@@ -4,6 +4,42 @@
 
 Building systems that span software, body, and craft. From agent runtimes to breath-hold training, the discipline is the same: define primitives, map failure modes, build recovery paths, iterate toward antifragility.
 
+<p align="center">
+  <a href="https://github.com/broomva?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-115+-181717?style=flat&logo=github" alt="Repos"></a>
+  <a href="https://huggingface.co/Broomva"><img src="https://img.shields.io/badge/HuggingFace-14_Models-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
+  <a href="https://broomva.tech"><img src="https://img.shields.io/badge/broomva.tech-000?style=flat&logo=vercel&logoColor=white" alt="Website"></a>
+  <a href="https://x.com/broomva_tech"><img src="https://img.shields.io/badge/@broomva__tech-000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://linkedin.com/in/broomva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/broomva">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%">
+  </a>
+  <a href="https://github.com/broomva">
+    <img src="https://github-readme-stats.vercel.app/api?username=broomva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="49%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/broomva">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=broomva&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=tokyonight&utcOffset=-5" alt="Commits by Time" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=tokyonight" alt="Profile Details" width="98%">
+</p>
+
 ---
 
 ### Agent OS Stack
@@ -82,4 +118,3 @@ Currently AI Lead at [Stimulus](https://console.getstimulus.ai)
   <a href="https://linkedin.com/in/broomva">LinkedIn</a> ·
   <a href="https://huggingface.co/Broomva">HuggingFace</a>
 </p>
-
