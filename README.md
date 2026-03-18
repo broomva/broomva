@@ -40,6 +40,10 @@ Building systems that span software, body, and craft. From agent runtimes to bre
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=default" alt="Profile Details" width="98%">
 </p>
 
+<p align="center">
+  <img src="contributions.svg" alt="Contributions Since 2018" width="98%">
+</p>
+
 ---
 
 ### Agent OS Stack
