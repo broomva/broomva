@@ -67,22 +67,25 @@ Building systems that span software, body, and craft. From agent runtimes to bre
 
 ---
 
-### Agent OS Stack
+### Agent OS Stack — [Life](https://github.com/broomva/life)
 
-A Rust-native ecosystem for autonomous software development, built on control theory:
+[**Life**](https://github.com/broomva/life) is an open-source Rust runtime for autonomous agents. 10 subsystems, 62 crates, 1,077 tests. A contract-first Agent OS that treats agents as living systems:
 
 | Layer | Project | Role |
 |-------|---------|------|
-| **Orchestration** | [Symphony](https://github.com/broomva/symphony) | Dispatch, lifecycle, and hook management for coding agents |
-| **Governance** | [Control Kernel](https://github.com/broomva/agentic-control-kernel) | Typed setpoints, safety shields, multi-rate control loops |
+| **Runtime** | [Arcan](https://github.com/broomva/arcan) | Agent runtime — event loop, LLM providers, TUI |
+| **Persistence** | [Lago](https://github.com/broomva/lago) | Event-sourced journal, blob store, knowledge graph |
+| **Evaluation** | [Nous](https://github.com/broomva/nous) | Metacognitive quality scoring, LLM-as-judge, EGRI |
+| **Stability** | [Autonomic](https://github.com/broomva/autonomic) | Homeostasis controller — operational, cognitive, economic |
+| **Finance** | [Haima](https://github.com/broomva/haima) | x402 machine-to-machine payments, wallets, billing |
+| **Identity** | [Anima](https://github.com/broomva/anima) | Ed25519/secp256k1 keypairs, DID, belief evolution |
+| **Contract** | [aiOS](https://github.com/broomva/aiOS) | Kernel contract — types, ports, event taxonomy |
+| **Tooling** | [Praxis](https://github.com/broomva/praxis) | Sandboxed tool execution, MCP bridge |
+| **Networking** | [Spaces](https://github.com/broomva/spaces) | Distributed agent messaging on SpacetimeDB |
+| **Observability** | [Vigil](https://github.com/broomva/vigil) | OpenTelemetry tracing, GenAI semantic conventions |
+| **Orchestration** | [Symphony](https://github.com/broomva/symphony) | Dispatch and lifecycle for coding agents |
 | **Improvement** | [Autoany](https://github.com/broomva/autoany) | Evaluator-Governed Recursive Improvement (EGRI) |
-| **Kernel** | [aiOS](https://github.com/broomva/aiOS) | Agent OS contract — state, memory, tools, event taxonomy |
-| **Runtime** | [Arcan](https://github.com/broomva/arcan) | Runtime implementing the aiOS kernel contract |
-| **Persistence** | [Lago](https://github.com/broomva/lago) | Durable state and event store |
-| **Stability** | [Autonomic](https://github.com/broomva/autonomic) | Homeostasis controller — operational, cognitive, economic regulation |
-| **Observability** | [Vigil](https://github.com/broomva/vigil) | OpenTelemetry-native tracing and GenAI metrics |
-| **Tooling** | [Praxis](https://github.com/broomva/praxis) | Canonical tool execution and sandbox engine |
-| **Networking** | [Spaces](https://github.com/broomva/spaces) | Distributed agent networking on SpacetimeDB |
+| **Governance** | [Control Kernel](https://github.com/broomva/agentic-control-kernel) | Safety shields, setpoints, multi-rate control loops |
 
 **Core law:** Agent freedom ≤ evaluator reliability.
 
