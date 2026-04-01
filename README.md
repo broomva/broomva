@@ -1,6 +1,6 @@
 # Carlos D. Escobar-Valbuena
 
-**Sr. ML/Mechatronics Engineer — Databricks expert, big data for AI, and scalable production systems.**
+**Lead AI — Databricks expert, big data for AI, and scalable production systems. Senior ML/Mechatronics Engineer**
 
 Building systems that span software, body, and craft. From agent runtimes to breath-hold training, the discipline is the same: define primitives, map failure modes, build recovery paths, iterate toward antifragility.
 
