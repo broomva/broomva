@@ -2,7 +2,7 @@
   <rect width="900" height="400" fill="#0d1117" rx="12"/>
 
   <text x="450" y="28" text-anchor="middle" fill="#e6edf3" font-size="16" font-weight="700" font-family="system-ui, -apple-system, sans-serif">
-    Contributions Since 2018 — 5,963 total · 5,069 commits · 236 PRs
+    Contributions Since 2018 — 6,069 total · 5,138 commits · 238 PRs
   </text>
 
   <line x1="65" y1="340" x2="870" y2="340" stroke="#21262d" stroke-width="1"/>
@@ -18,13 +18,13 @@
   <text x="55" y="112" text-anchor="end" fill="#8b949e" font-size="12" font-family="system-ui, -apple-system, sans-serif">3,600</text>
   <text x="55" y="54" text-anchor="end" fill="#8b949e" font-size="12" font-family="system-ui, -apple-system, sans-serif">4,500</text>
 
-  <polygon points="65,340 65,339.03333333333336 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,339.93555555555554 568.125,311.12888888888887 668.75,315.12444444444446 769.375,286.7688888888889 870,72.8777777777778 870,340" fill="rgba(167,139,250,0.12)"/>
-  <polyline points="65,339.03333333333336 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,339.93555555555554 568.125,311.12888888888887 668.75,315.12444444444446 769.375,286.7688888888889 870,72.8777777777778" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="65,340 65,339.03333333333336 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,339.93555555555554 568.125,311.12888888888887 668.75,315.12444444444446 769.375,286.7688888888889 870,66.04666666666668 870,340" fill="rgba(167,139,250,0.12)"/>
+  <polyline points="65,339.03333333333336 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,339.93555555555554 568.125,311.12888888888887 668.75,315.12444444444446 769.375,286.7688888888889 870,66.04666666666668" fill="none" stroke="#a78bfa" stroke-width="2.5" stroke-linejoin="round"/>
 
-  <polygon points="65,340 65,339.09777777777776 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,340 568.125,311.90222222222224 668.75,315.7688888888889 769.375,286.8333333333333 870,128.88 870,340" fill="rgba(88,166,255,0.15)"/>
-  <polyline points="65,339.09777777777776 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,340 568.125,311.90222222222224 668.75,315.7688888888889 769.375,286.8333333333333 870,128.88" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="65,340 65,339.09777777777776 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,340 568.125,311.90222222222224 668.75,315.7688888888889 769.375,286.8333333333333 870,124.43333333333334 870,340" fill="rgba(88,166,255,0.15)"/>
+  <polyline points="65,339.09777777777776 165.625,339.8066666666667 266.25,331.3 366.875,339.7422222222222 467.5,340 568.125,311.90222222222224 668.75,315.7688888888889 769.375,286.8333333333333 870,124.43333333333334" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linejoin="round"/>
 
-  <polyline points="65,340 165.625,340 266.25,340 366.875,340 467.5,339.93555555555554 568.125,339.7422222222222 668.75,339.61333333333334 769.375,339.93555555555554 870,325.56444444444446" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,3" stroke-linejoin="round"/>
+  <polyline points="65,340 165.625,340 266.25,340 366.875,340 467.5,339.93555555555554 568.125,339.7422222222222 668.75,339.61333333333334 769.375,339.93555555555554 870,325.43555555555554" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,3" stroke-linejoin="round"/>
 
   <circle cx="65" cy="339.03333333333336" r="4" fill="#a78bfa" stroke="#0d1117" stroke-width="2"/>
      <text x="65" y="327.03333333333336" text-anchor="middle" fill="#a78bfa" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">15</text>
@@ -42,8 +42,8 @@
      <text x="668.75" y="303.12444444444446" text-anchor="middle" fill="#a78bfa" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">386</text>
   <circle cx="769.375" cy="286.7688888888889" r="4" fill="#a78bfa" stroke="#0d1117" stroke-width="2"/>
      <text x="769.375" y="274.7688888888889" text-anchor="middle" fill="#a78bfa" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">826</text>
-  <circle cx="870" cy="72.8777777777778" r="4" fill="#a78bfa" stroke="#0d1117" stroke-width="2"/>
-     <text x="870" y="60.877777777777794" text-anchor="middle" fill="#a78bfa" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">4,145</text>
+  <circle cx="870" cy="66.04666666666668" r="4" fill="#a78bfa" stroke="#0d1117" stroke-width="2"/>
+     <text x="870" y="54.04666666666668" text-anchor="middle" fill="#a78bfa" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">4,251</text>
   <circle cx="65" cy="339.09777777777776" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
      <text x="65" y="327.09777777777776" text-anchor="middle" fill="#58a6ff" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">14</text>
   <circle cx="165.625" cy="339.8066666666667" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
@@ -60,8 +60,8 @@
      <text x="668.75" y="303.7688888888889" text-anchor="middle" fill="#58a6ff" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">376</text>
   <circle cx="769.375" cy="286.8333333333333" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
      <text x="769.375" y="274.8333333333333" text-anchor="middle" fill="#58a6ff" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">825</text>
-  <circle cx="870" cy="128.88" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
-     <text x="870" y="116.88" text-anchor="middle" fill="#58a6ff" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">3,276</text>
+  <circle cx="870" cy="124.43333333333334" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+     <text x="870" y="112.43333333333334" text-anchor="middle" fill="#58a6ff" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">3,345</text>
 
   <text x="65" y="365" text-anchor="middle" fill="#8b949e" font-size="12" font-family="system-ui, -apple-system, sans-serif">2018</text>
   <text x="165.625" y="365" text-anchor="middle" fill="#8b949e" font-size="12" font-family="system-ui, -apple-system, sans-serif">2019</text>
