@@ -5,7 +5,7 @@
 Building systems that span software, body, and craft. From agent runtimes to breath-hold training, the discipline is the same: define primitives, map failure modes, build recovery paths, iterate toward antifragility.
 
 <p align="center">
-  <a href="https://github.com/broomva?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-115+-181717?style=flat&logo=github" alt="Repos"></a>
+  <a href="https://github.com/broomva?tab=repositories"><img src="https://img.shields.io/badge/Public_Repos-135-181717?style=flat&logo=github" alt="Repos"></a>
   <a href="https://huggingface.co/Broomva"><img src="https://img.shields.io/badge/HuggingFace-14_Models-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
   <a href="https://broomva.tech"><img src="https://img.shields.io/badge/broomva.tech-000?style=flat&logo=vercel&logoColor=white" alt="Website"></a>
   <a href="https://x.com/broomva_tech"><img src="https://img.shields.io/badge/@broomva__tech-000?style=flat&logo=x&logoColor=white" alt="X"></a>
@@ -19,14 +19,21 @@ Building systems that span software, body, and craft. From agent runtimes to bre
 <p align="center">
   <a href="https://github.com/broomva">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=broomva&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default&bg_color=00000000&title_color=5480C7&text_color=9A9EAB&icon_color=5480C7&ring_color=5480C7">
+      <img src="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default&bg_color=00000000&title_color=5480C7&text_color=414453&icon_color=5480C7&ring_color=5480C7" alt="GitHub Stats" width="49%">
     </picture>
   </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=5480C7&text_color=9A9EAB">
+    <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=5480C7&text_color=414453" alt="Top Languages" width="49%">
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/broomva">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github">
-      <img src="https://broomva-github-stats.vercel.app/api?username=broomva&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" width="49%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=broomva&hide_border=true&area=true&bg_color=00000000&color=9A9EAB&line=5480C7&point=5480C7&area_color=5480C7&title_color=5480C7&custom_title=Contribution%20Activity">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=broomva&hide_border=true&area=true&bg_color=00000000&color=414453&line=5480C7&point=5480C7&area_color=5480C7&title_color=5480C7&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%">
     </picture>
   </a>
 </p>
@@ -34,28 +41,10 @@ Building systems that span software, body, and craft. From agent runtimes to bre
 <p align="center">
   <a href="https://github.com/broomva">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=broomva&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=broomva&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="98%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=broomva&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&ring=5480C7&fire=5480C7&currStreakLabel=5480C7&stroke=5480C7&sideLabels=9A9EAB&dates=60636F&currStreakNum=F8F8F8&sideNums=F8F8F8">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=broomva&hide_border=true&date_format=j%20M%5B%20Y%5D&background=00000000&ring=5480C7&fire=5480C7&currStreakLabel=5480C7&stroke=5480C7&sideLabels=414453&dates=686B79&currStreakNum=101321&sideNums=101321" alt="GitHub Streak" width="60%">
     </picture>
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css">
-    <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&theme=default&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css" alt="Top Languages" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=tokyonight&utcOffset=-5">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=broomva&theme=default&utcOffset=-5" alt="Commits by Time" width="49%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=tokyonight">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=broomva&theme=default" alt="Profile Details" width="98%">
-  </picture>
 </p>
 
 <p align="center">
