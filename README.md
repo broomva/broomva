@@ -24,8 +24,8 @@ Building systems that span software, body, and craft. From agent runtimes to bre
     </picture>
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=5480C7&text_color=9A9EAB">
-    <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css&bg_color=00000000&title_color=5480C7&text_color=414453" alt="Top Languages" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=5480C7&text_color=9A9EAB">
+    <img src="https://broomva-github-stats.vercel.app/api/top-langs/?username=broomva&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook%2Chtml%2Ccss&bg_color=00000000&title_color=5480C7&text_color=414453" alt="Top Languages" width="49%">
   </picture>
 </p>
 
