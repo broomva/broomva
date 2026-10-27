@@ -2,7 +2,7 @@
   <rect width="900" height="400" fill="white" rx="12"/>
 
   <text x="450" y="28" text-anchor="middle" fill="#111827" font-size="16" font-weight="700" font-family="system-ui, -apple-system, sans-serif">
-    Contributions Since 2018 — 11,034 total · 9,219 commits · 1,767 PRs
+    Contributions Since 2018 — 11,390 total · 9,561 commits · 1,781 PRs
   </text>
 
   <line x1="65" y1="340" x2="870" y2="340" stroke="#e5e7eb" stroke-width="1"/>
@@ -12,56 +12,56 @@
   <line x1="65" y1="108" x2="870" y2="108" stroke="#e5e7eb" stroke-width="1"/>
   <line x1="65" y1="50" x2="870" y2="50" stroke="#e5e7eb" stroke-width="1"/>
   <text x="55" y="344" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">0</text>
-  <text x="55" y="286" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">1,900</text>
-  <text x="55" y="228" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">3,800</text>
-  <text x="55" y="170" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">5,700</text>
-  <text x="55" y="112" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">7,600</text>
-  <text x="55" y="54" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">9,500</text>
+  <text x="55" y="286" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">2,000</text>
+  <text x="55" y="228" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">4,000</text>
+  <text x="55" y="170" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">6,000</text>
+  <text x="55" y="112" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">8,000</text>
+  <text x="55" y="54" text-anchor="end" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">10,000</text>
 
-  <polygon points="65,340 65,339.5421052631579 165.625,339.9084210526316 266.25,335.87894736842105 366.875,339.8778947368421 467.5,339.9694736842105 568.125,326.35473684210524 668.75,327.7894736842105 769.375,314.78526315789475 870,59.06631578947372 870,340" fill="rgba(139,92,246,0.1)"/>
-  <polyline points="65,339.5421052631579 165.625,339.9084210526316 266.25,335.87894736842105 366.875,339.8778947368421 467.5,339.9694736842105 568.125,326.35473684210524 668.75,327.7894736842105 769.375,314.78526315789475 870,59.06631578947372" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="65,340 65,339.565 165.625,339.913 266.25,336.085 366.875,339.884 467.5,339.971 568.125,327.037 668.75,328.4 769.375,316.046 870,62.78899999999999 870,340" fill="rgba(139,92,246,0.1)"/>
+  <polyline points="65,339.565 165.625,339.913 266.25,336.085 366.875,339.884 467.5,339.971 568.125,327.037 668.75,328.4 769.375,316.046 870,62.78899999999999" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-linejoin="round"/>
 
-  <polygon points="65,340 65,339.5726315789474 165.625,339.9084210526316 266.25,335.87894736842105 366.875,339.8778947368421 467.5,340 568.125,326.72105263157897 668.75,328.09473684210525 769.375,314.8157894736842 870,113.70842105263159 870,340" fill="rgba(37,99,235,0.12)"/>
-  <polyline points="65,339.5726315789474 165.625,339.9084210526316 266.25,335.87894736842105 366.875,339.8778947368421 467.5,340 568.125,326.72105263157897 668.75,328.09473684210525 769.375,314.8157894736842 870,113.70842105263159" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
+  <polygon points="65,340 65,339.594 165.625,339.913 266.25,336.085 366.875,339.884 467.5,340 568.125,327.385 668.75,328.69 769.375,316.075 870,115.10500000000002 870,340" fill="rgba(37,99,235,0.12)"/>
+  <polyline points="65,339.594 165.625,339.913 266.25,336.085 366.875,339.884 467.5,340 568.125,327.385 668.75,328.69 769.375,316.075 870,115.10500000000002" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round"/>
 
-  <polyline points="65,340 165.625,340 266.25,340 366.875,340 467.5,339.9694736842105 568.125,339.8778947368421 668.75,339.81684210526316 769.375,339.9694736842105 870,286.4263157894737" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,3" stroke-linejoin="round"/>
+  <polyline points="65,340 165.625,340 266.25,340 366.875,340 467.5,339.971 568.125,339.884 668.75,339.826 769.375,339.971 870,288.699" fill="none" stroke="#f59e0b" stroke-width="2" stroke-dasharray="6,3" stroke-linejoin="round"/>
 
-  <circle cx="65" cy="339.5421052631579" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="65" y="327.5421052631579" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">15</text>
-  <circle cx="165.625" cy="339.9084210526316" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="165.625" y="327.9084210526316" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">3</text>
-  <circle cx="266.25" cy="335.87894736842105" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="266.25" y="323.87894736842105" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">135</text>
-  <circle cx="366.875" cy="339.8778947368421" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="366.875" y="327.8778947368421" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">4</text>
-  <circle cx="467.5" cy="339.9694736842105" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="467.5" y="327.9694736842105" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">1</text>
-  <circle cx="568.125" cy="326.35473684210524" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="568.125" y="314.35473684210524" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">447</text>
-  <circle cx="668.75" cy="327.7894736842105" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="668.75" y="315.7894736842105" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">400</text>
-  <circle cx="769.375" cy="314.78526315789475" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="769.375" y="302.78526315789475" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">826</text>
-  <circle cx="870" cy="59.06631578947372" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
-     <text x="870" y="47.06631578947372" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">9,203</text>
-  <circle cx="65" cy="339.5726315789474" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="65" y="327.5726315789474" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">14</text>
-  <circle cx="165.625" cy="339.9084210526316" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="165.625" y="327.9084210526316" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">3</text>
-  <circle cx="266.25" cy="335.87894736842105" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="266.25" y="323.87894736842105" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">135</text>
-  <circle cx="366.875" cy="339.8778947368421" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="366.875" y="327.8778947368421" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">4</text>
+  <circle cx="65" cy="339.565" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="65" y="327.565" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">15</text>
+  <circle cx="165.625" cy="339.913" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="165.625" y="327.913" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">3</text>
+  <circle cx="266.25" cy="336.085" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="266.25" y="324.085" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">135</text>
+  <circle cx="366.875" cy="339.884" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="366.875" y="327.884" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">4</text>
+  <circle cx="467.5" cy="339.971" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="467.5" y="327.971" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">1</text>
+  <circle cx="568.125" cy="327.037" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="568.125" y="315.037" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">447</text>
+  <circle cx="668.75" cy="328.4" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="668.75" y="316.4" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">400</text>
+  <circle cx="769.375" cy="316.046" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="769.375" y="304.046" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">826</text>
+  <circle cx="870" cy="62.78899999999999" r="4" fill="#8b5cf6" stroke="white" stroke-width="2"/>
+     <text x="870" y="50.78899999999999" text-anchor="middle" fill="#8b5cf6" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">9,559</text>
+  <circle cx="65" cy="339.594" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="65" y="327.594" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">14</text>
+  <circle cx="165.625" cy="339.913" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="165.625" y="327.913" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">3</text>
+  <circle cx="266.25" cy="336.085" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="266.25" y="324.085" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">135</text>
+  <circle cx="366.875" cy="339.884" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="366.875" y="327.884" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">4</text>
   <circle cx="467.5" cy="340" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
      <text x="467.5" y="328" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">0</text>
-  <circle cx="568.125" cy="326.72105263157897" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="568.125" y="314.72105263157897" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">435</text>
-  <circle cx="668.75" cy="328.09473684210525" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="668.75" y="316.09473684210525" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">390</text>
-  <circle cx="769.375" cy="314.8157894736842" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="769.375" y="302.8157894736842" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">825</text>
-  <circle cx="870" cy="113.70842105263159" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
-     <text x="870" y="101.70842105263159" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">7,413</text>
+  <circle cx="568.125" cy="327.385" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="568.125" y="315.385" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">435</text>
+  <circle cx="668.75" cy="328.69" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="668.75" y="316.69" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">390</text>
+  <circle cx="769.375" cy="316.075" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="769.375" y="304.075" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">825</text>
+  <circle cx="870" cy="115.10500000000002" r="4" fill="#2563eb" stroke="white" stroke-width="2"/>
+     <text x="870" y="103.10500000000002" text-anchor="middle" fill="#2563eb" font-size="11" font-weight="600" font-family="system-ui, -apple-system, sans-serif">7,755</text>
 
   <text x="65" y="365" text-anchor="middle" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">2018</text>
   <text x="165.625" y="365" text-anchor="middle" fill="#6b7280" font-size="12" font-family="system-ui, -apple-system, sans-serif">2019</text>
